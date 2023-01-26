@@ -2,7 +2,13 @@
 
 This template should work on any Operating System.
 
-This template can be used in VsCode/Visual Studio Code, or it can be used with `make`
+This template can be used in VsCode/Visual Studio Code, or it can be used with `make`.
+
+Start by cloning the template and chnging directories into the project:
+
+``
+git clone 
+cd opengl``
 
 ## Prerequisites
 
