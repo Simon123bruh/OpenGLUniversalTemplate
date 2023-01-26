@@ -6,9 +6,8 @@ This template can be used in VsCode/Visual Studio Code, or it can be used with `
 
 Start by cloning the template and chnging directories into the project:
 
-``
-git clone 
-cd opengl``
+``git clone https://github.com/Simon123bruh/OpenGLUniversalTemplate``
+``cd opengl``
 
 ## Prerequisites
 
